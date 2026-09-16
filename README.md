@@ -1,8 +1,10 @@
 16-Sep-2026
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: sharmabanti19@yahoo.com, palushbaugh@sbcglobal.net
-At: 2026-09-16 14:54:26
-Id: xcm6rfH0
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: minshew25@sbcglobal.net, tgower1755@aol.com
+At: 2026-09-16 14:55:05
+Id: PL6beDNN
